@@ -1,21 +1,24 @@
 # 안녕하세요 취뽀코뽀 팀 입니다.
 
-## 👨‍💻 "X, Instargram 클론" 프로젝트 개요
+## 👨‍💻 "X-clone, Instargram-clone" 프로젝트 개요
 ![project_period](https://img.shields.io/badge/Project%20Period-2025--05--26%20~%202025--06--02-6366F1)<br>
 본 프로젝트는 다른 개발자와의 협업, UI/UX 구성 능력, 상태/컴포넌트 설계력, 프론트엔드 사고방식을 기르기 위한 클론 프로젝트입니다.
 
 React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 상태 관리하고, 캐러셀·모달 등 주요 UI 컴포넌트를 직접 구현하며 실제 서비스 수준의 사용자 흐름을 재현했습니다.
 
 
-|<h1 align="center">X (Clone ver.)</h1>|
+|<h2 align="center">X (Clone ver.)</h1>|
 |-|
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
+|<h2 align="center">Instargram (Clone ver.)</h1>|
+|![인스타그램](https://github.com/yonghun16/instagram-cover/raw/main/preview.gif?raw=true)|
 
 ## 📦 배포
-https://x-cover.netlify.app/
+- https://x-cover.netlify.app/
+- https://insta33234.netlify.app/
 
 
-## 💁🏻 1조 조원
+## 💁🏻 1조 X-clone 조원
 <table>
   <thead>
     <tr>
@@ -49,7 +52,7 @@ https://x-cover.netlify.app/
       <td rowspan="2" style="vertical-align: top; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/f98210a9-bb1e-45b5-97df-b56b9ef72b60" alt="김민기" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
-      <td>김민기(FE)</td>
+      <td><a href="https://github.com/minki1220">김민기</a> (FE)</td>
     </tr>
     <tr>
       <td>랜딩 페이지</td>
@@ -57,27 +60,7 @@ https://x-cover.netlify.app/
   </tbody>
 </table>
 
-
-## ⚙️ 기술 스택
-<div align="left">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
-</div>
-
-<br><br><br>
-
-
-|<h1 align="center">Instargram (Clone ver.)</h1>|
-|-|
-|![인스타그램](https://github.com/yonghun16/instagram-cover/raw/main/preview.gif?raw=true)|
-
-## 📦 배포
-https://insta33234.netlify.app/
-
-## 💁🏻 2조 조원
+## 💁🏻 2조 Instargram-clone 조원
 <table>
   <thead>
     <tr>
@@ -98,6 +81,7 @@ https://insta33234.netlify.app/
     </tr>
   </tbody>
 </table>
+<br />
 
 ## ⚙️ 기술 스택
 <div align="left">
@@ -106,6 +90,9 @@ https://insta33234.netlify.app/
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" />
 </div>
+<br />
 
-
+## 🔗 링크
+[팀 취뽀코뽀 노션](https://www.notion.so/console-log-1d77d95040c681fc92d4e55ec631be54)
