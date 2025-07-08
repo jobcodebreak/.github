@@ -91,7 +91,7 @@ https://insta33234.netlify.app/
       <td rowspan="2" style="vertical-align: top; padding: 10px;">
         <img src="https://avatars.githubusercontent.com/u/6349003?v=4" alt="송용훈" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
-      <td><a href="https://github.com/LEEJUNGKWAN1">송용훈</a> (FE)</td>
+      <td><a href="https://github.com/yonghun16">송용훈</a> (FE)</td>
     </tr>
     <tr>
       <td>프로필, 검색, 랜딩 페이지</td>
