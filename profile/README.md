@@ -37,7 +37,7 @@ https://x-cover.netlify.app/
     <!-- 이가영 -->
     <tr>
       <td rowspan="2" style="vertical-align: top; padding: 10px;">
-        <img src="https://github.com/user-attachments/assets/f98210a9-bb1e-45b5-97df-b56b9ef72b60" alt="이가영" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/user-attachments/assets/eef5b360-acbd-49ca-8ca0-79cae7699b7e" alt="이가영" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td><a href="https://github.com/G0zero">이가영</a> (FE)</td>
     </tr>
@@ -47,7 +47,7 @@ https://x-cover.netlify.app/
     <!-- 김민기 -->
     <tr>
       <td rowspan="2" style="vertical-align: top; padding: 10px;">
-        <img src="https://github.com/user-attachments/assets/eef5b360-acbd-49ca-8ca0-79cae7699b7e" alt="김민기" style="min-width: 50px; width:60px; height: 60px;" />
+        <img src="https://github.com/user-attachments/assets/f98210a9-bb1e-45b5-97df-b56b9ef72b60" alt="김민기" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
       <td>김민기(FE)</td>
     </tr>
