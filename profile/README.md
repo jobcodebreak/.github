@@ -6,10 +6,10 @@
 
 React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 상태 관리하고, 캐러셀·모달 등 주요 UI 컴포넌트를 직접 구현하며 실제 서비스 수준의 사용자 흐름을 재현했습니다.
 
-|<h2 align="center">X (Clone ver.)</h1>|
+|<h2 align="center">X (Clone ver.)</h2>|
 |-|
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
-|<h2 align="center">Instargram (Clone ver.)</h1>|
+|<h2 align="center">Instargram (Clone ver.)</h2>|
 |![인스타그램](https://github.com/yonghun16/instagram-cover/raw/main/preview.gif?raw=true)|
 
 ## 📦 배포
